@@ -26,7 +26,7 @@ const NavigationContent = () => {
   return (
     <nav className="bg-gray-800 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
-        <Link to="/" className="text-2xl font-bold">
+        <Link to="/" className="text-4xl font-bold">
           SPACER
         </Link>
         <ul className="flex space-x-4">
