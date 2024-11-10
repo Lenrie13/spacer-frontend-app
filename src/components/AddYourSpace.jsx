@@ -98,7 +98,7 @@ export default function AddYourSpace() {
       <div className="max-w-3xl mx-auto bg-white rounded-lg shadow-md overflow-hidden">
         <div className="px-4 py-5 sm:p-6">
           <h1 className="text-3xl font-bold text-gray-800 mb-6">
-            Add Your Space
+            List Your Space
           </h1>
           <form onSubmit={handleSubmit} className="space-y-6">
             <div>
