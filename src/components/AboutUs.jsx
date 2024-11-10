@@ -4,17 +4,17 @@ import { Camera, Home, LogIn, Mail, MapPin, Phone } from "lucide-react";
 export default function AboutUs() {
   const teamMembers = [
     {
-      name: "Jane Doe",
+      name: "James Earnest",
       role: "CEO & Founder",
       image: "/src/assets/team/person1.webp",
     },
     {
-      name: "John Smith",
+      name: "Delvine Margaret",
       role: "CTO",
       image: "/src/assets/team/person2.webp",
     },
     {
-      name: "Emily Brown",
+      name: "Evans Smith",
       role: "Head of Design",
       image: "/src/assets/team/person3.webp",
     },
@@ -128,7 +128,7 @@ export default function AboutUs() {
               </div>
               <div className="flex items-center">
                 <MapPin className="mr-2" size={20} />
-                <span>123 Main St, Anytown, USA</span>
+                <span>123 Levey St, Nairobi, Kenya</span>
               </div>
             </div>
           </div>
