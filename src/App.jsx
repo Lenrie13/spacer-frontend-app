@@ -42,12 +42,12 @@ const NavigationContent = () => {
           </li>
           <li>
             <Link to="/FindYourPlace" className="hover:text-gray-300">
-              Find a Place
+              Find a Space
             </Link>
           </li>
           <li>
             <Link to="/AddYourSpace" className="hover:text-gray-300">
-              List Your Place
+              List Your Space
             </Link>
           </li>
           <li>

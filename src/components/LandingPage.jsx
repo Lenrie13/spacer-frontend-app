@@ -63,7 +63,7 @@ export default function SpacerLandingPage() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="bg-white rounded-lg shadow-lg p-6">
             <h3 className="text-xl font-bold mb-2 text-gray-800">
-              Find a Place
+              Find a Space
             </h3>
             <p className="text-gray-600">
               Discover spaces for hourly or daily rentals in your area.
@@ -71,7 +71,7 @@ export default function SpacerLandingPage() {
           </div>
           <div className="bg-white rounded-lg shadow-lg p-6">
             <h3 className="text-xl font-bold mb-2 text-gray-800">
-              List Your Place
+              List Your Space
             </h3>
             <p className="text-gray-600">
               Earn money by listing your space for others to rent.
@@ -93,7 +93,7 @@ export default function SpacerLandingPage() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <h3 className="text-xl font-bold mb-4 text-white">Contact Us</h3>
-            <p className="text-gray-400">123 Main St, Anytown USA</p>
+            <p className="text-gray-400">123 Levey St, Nairobi Kenya</p>
             <p className="text-gray-400">info@spacer.com</p>
           </div>
           <div className="space-x-4">
